@@ -1,0 +1,28 @@
+# Ignore .vscode folder
+.vscode/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules (for JS/TS projects)
+node_modules/
+
+# Ignore environment files (e.g., dotenv)
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+sankeyChart/
+
+# Ignore excel files
+*.xls
+*.xlsx
+*.csv
